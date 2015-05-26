@@ -1,0 +1,22 @@
+*********************************Language Model*************************************
+
+This program takes input text as a “model,” and generates new text based on that
+model.
+
+Specifically, the program uses the model to learn the frequency of specific
+words and their relative placement next to other words. It is best to leave out
+punctuation from the paragraph model; any punctuation will be read as an extension
+of the attached word. The program then computes probabilities of where a word will
+appear, and generates new text.
+
+************************************************************************************
+
+to compile program: make
+
+to compile and run tester: make testLangModel
+
+to run (*must compile first): ./LM_Driver
+
+use control-d to end user input
+
+
