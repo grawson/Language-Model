@@ -1,11 +1,5 @@
 //
 //  langModel.h
-//  
-// Gabriel Rawson
-// Homework 5, 600.120 Spring 2015
-// (914)-560-6688
-// grawson2
-// grawson2@jhu.edu
 //
 
 #ifndef ____langModel__
